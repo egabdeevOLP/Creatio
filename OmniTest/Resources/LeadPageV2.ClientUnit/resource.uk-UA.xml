@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.704490f4-6b1c-42af-ad1e-d09516048d65.Caption" Value="Image 2SimilarAccountsButtonImage" />
+			<Item Name="Images.ac59959c-5ce3-4de6-ac2b-e34847f49a9b.Caption" Value="SearchInternetButtonImage" />
+			<Item Name="Images.dfc52eca-5c10-47a7-8264-89905a1f5b14.Caption" Value="SimilarContactsButtonImage" />
+			<Item Name="LocalizableStrings.AccountActivityDetailV2DetailCaptionOnPage.Value" Value="Активності контрагента" />
+			<Item Name="LocalizableStrings.AccountAddressDetailDetailCaptionOnPage.Value" Value="Адреси контрагента" />
+			<Item Name="LocalizableStrings.AccountCallDetailDetailCaptionOnPage.Value" Value="Дзвінки контрагента" />
+			<Item Name="LocalizableStrings.AccountCategoryCaption.Value" Value="Категорія" />
+			<Item Name="LocalizableStrings.AccountNameCaption.Value" Value="Назва" />
+			<Item Name="LocalizableStrings.AccountOwnershipCaption.Value" Value="Форма власності" />
+			<Item Name="LocalizableStrings.AddressCaption.Value" Value="Адреса" />
+			<Item Name="LocalizableStrings.AddressTypeCaption.Value" Value="Тип адреси" />
+			<Item Name="LocalizableStrings.AnnualRevenueCaption.Value" Value="Річний оборот" />
+			<Item Name="LocalizableStrings.BusinesPhoneCaption.Value" Value="Робочий телефон" />
+			<Item Name="LocalizableStrings.CallDetailDetailCaptionOnPage.Value" Value="Дзвінки" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланувати на дату" />
+			<Item Name="LocalizableStrings.CityCaption.Value" Value="Місто" />
+			<Item Name="LocalizableStrings.CityStrCaption.Value" Value="Місто" />
+			<Item Name="LocalizableStrings.ContactActivityDetailV2DetailCaptionOnPage.Value" Value="Активності контакту" />
+			<Item Name="LocalizableStrings.ContactAddressDetailDetailCaptionOnPage.Value" Value="Адреси контакта" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2DetailCaptionOnPage.Value" Value="Адреси контакта" />
+			<Item Name="LocalizableStrings.ContactCallDetailV2DetailCaptionOnPage.Value" Value="Дзвінки контакту" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="ПІБ контакту" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailDetailCaptionOnPage.Value" Value="Засоби зв'язку" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailV2DetailCaptionOnPage.Value" Value="Засоби зв'язку" />
+			<Item Name="LocalizableStrings.CountryCaption.Value" Value="Країна" />
+			<Item Name="LocalizableStrings.CountryStrCaption.Value" Value="Країна" />
+			<Item Name="LocalizableStrings.DealOwnerCaption.Value" Value="Відповідальний за угоду" />
+			<Item Name="LocalizableStrings.DearCaption.Value" Value="Привітання" />
+			<Item Name="LocalizableStrings.DecisionRoleCaption.Value" Value="Роль" />
+			<Item Name="LocalizableStrings.DepartmentCaption.Value" Value="Департамент" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Дискваліфікувати" />
+			<Item Name="LocalizableStrings.EmailCaption.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmailDetailV2DetailCaptionOnPage.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmployeesNumberCaption.Value" Value="Кількість співробітників" />
+			<Item Name="LocalizableStrings.FaxCaption.Value" Value="Факс" />
+			<Item Name="LocalizableStrings.FullJobTitleCaption.Value" Value="Повна назва посади" />
+			<Item Name="LocalizableStrings.GenderCaption.Value" Value="Стать" />
+			<Item Name="LocalizableStrings.GeneralInfoTabCaption.Value" Value="Вихідні дані" />
+			<Item Name="LocalizableStrings.IndustryCaption.Value" Value="Галузь" />
+			<Item Name="LocalizableStrings.JobCaption.Value" Value="Посада" />
+			<Item Name="LocalizableStrings.LeadPageAccountInfoCaption.Value" Value="Дані контрагенту" />
+			<Item Name="LocalizableStrings.LeadPageContactInfoCaption.Value" Value="Дані контакта" />
+			<Item Name="LocalizableStrings.LeadPageDistributionInfoCaption.Value" Value="Розподілення ліду" />
+			<Item Name="LocalizableStrings.LeadPageGeneralTabContainerCaption.Value" Value="Вихідні дані" />
+			<Item Name="LocalizableStrings.LeadPageMQLTabTabCaption.Value" Value="MQL" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationBlockCaption.Value" Value="Потребують перевірки" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationInfo.Value" Value="Схоже, в Лендінгу деякі поля були заповнені некоректно.Необхідно вручну виправити помилки введення адреси Ліду чи додати нові значення в довідник." />
+			<Item Name="LocalizableStrings.LeadPageSQLTabOpportunityPlanningGroupGroupCaption.Value" Value="Планування угоди" />
+			<Item Name="LocalizableStrings.LeadPageSQLTabTabCaption.Value" Value="SQL" />
+			<Item Name="LocalizableStrings.LeadPageTransferToSaleInfoCaption.Value" Value="Перевід у продаж" />
+			<Item Name="LocalizableStrings.LeadProductDetailV2DetailCaptionOnPage.Value" Value="Продукти" />
+			<Item Name="LocalizableStrings.LeadSpecificationDetailDetailCaptionOnPage.Value" Value="Характеристики" />
+			<Item Name="LocalizableStrings.LeadsSimilarSearchResultDetailDetailCaptionOnPage.Value" Value="Схожі ліди" />
+			<Item Name="LocalizableStrings.MobilePhoneCaption.Value" Value="Мобільний телефон" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Знайдено більше одного елементу черги пов'язаних з процесом. Ідентифікатор процесу: {0}" />
+			<Item Name="LocalizableStrings.NeedInfoTabCaption.Value" Value="Дані про потребу" />
+			<Item Name="LocalizableStrings.OpportunityOrOrderCaption.Value" Value="Продаж/Замовлення" />
+			<Item Name="LocalizableStrings.OrderCaption.Value" Value="Замовлення" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Повернути в чергу" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Помилка повернення елемента в чергу. Повідомлення про помилку: {0}" />
+			<Item Name="LocalizableStrings.PredictiveScoreNotEvaluatedCaption.Value" Value="не визначений" />
+			<Item Name="LocalizableStrings.PredictiveScoreTip.Value" Value="Імовірність конвертації ліда, отримана на основі історичних закономірностей і даних в реальному часі. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1863&quot;&gt; Детальніше ... &lt;/a&gt;" />
+			<Item Name="LocalizableStrings.QualifiedAccountCaption.Value" Value="Контрагент" />
+			<Item Name="LocalizableStrings.QualifiedContactCaption.Value" Value="Контакт" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Розподілити" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Кваліфікувати" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Перевести у продаж" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Сторінку не пов'язана з елементом черги єдиного вікна. Дія скасована." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Помилка при поверненні елемента в чергу" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Елемент успішно повернений в чергу" />
+			<Item Name="LocalizableStrings.RegionCaption.Value" Value="Область/штат" />
+			<Item Name="LocalizableStrings.RegionStrCaption.Value" Value="Область/штат" />
+			<Item Name="LocalizableStrings.SearchAccountInGoogleNotEnoughInfoMessage.Value" Value="Для пошуку даних в Google необхідно заповнити поле &quot;Назва контрагента&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInLinkedInNotEnoughInfoMessage.Value" Value="Для пошуку даних в LinkedIn необхідно заповнити поле &quot;Назва контрагента&quot;" />
+			<Item Name="LocalizableStrings.SearchContactInFacebookNotEnoughInfoMessage.Value" Value="Для пошуку даних в Facebook необхідно вказати Email" />
+			<Item Name="LocalizableStrings.SearchContactInLinkedInNotEnoughInfoMessage.Value" Value="Для пошуку даних в LinkedIn необхідно заповнити хоча б одне з полів: &quot;ПІБ контакту&quot;, &quot;Назва контрагента&quot;" />
+			<Item Name="LocalizableStrings.SearchGoogle.Value" Value="Пошук в Google" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Caption" Value="Message to user 3" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Value" Value="Ми не знайшли контрагентів, до яких можна віднести цей лід. Натиснувши цю кнопку, оберіть потрібного контрагента в списку, що з'явиться." />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Caption" Value="Message to user 3" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Value" Value="Ми не знайшли контрагентів, до яких можна віднести цей лід." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Caption" Value="Message to user 4" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Value" Value="Ми знайшли контакти, до яких можна віднести цей лід. Натиснувши на цю кнопку, оберіть потрібний контакт у списку, що з'явиться." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Caption" Value="Message to user 3" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Value" Value="Ми не знайшли контактів, до яких можна віднести цей лід." />
+			<Item Name="LocalizableStrings.SourceGroupCaption.Value" Value="Залучення ліда" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатись на оновлення стрічки" />
+			<Item Name="LocalizableStrings.TitleCaption.Value" Value="Заголовок" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатись від оновлень стрічки" />
+			<Item Name="LocalizableStrings.WebsiteCaption.Value" Value="Інтернет" />
+			<Item Name="LocalizableStrings.ZipCaption.Value" Value="Індекс" />
+		</Items>
+	</Group>
+</Resources>

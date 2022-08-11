@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.704490f4-6b1c-42af-ad1e-d09516048d65.Caption" Value="Image 2SimilarAccountsButtonImage" />
+			<Item Name="Images.ac59959c-5ce3-4de6-ac2b-e34847f49a9b.Caption" Value="SearchInternetButtonImage" />
+			<Item Name="Images.dfc52eca-5c10-47a7-8264-89905a1f5b14.Caption" Value="SimilarContactsButtonImage" />
+			<Item Name="LocalizableStrings.AccountActivityDetailV2DetailCaptionOnPage.Value" Value="Account activities" />
+			<Item Name="LocalizableStrings.AccountAddressDetailDetailCaptionOnPage.Value" Value="Account addresses" />
+			<Item Name="LocalizableStrings.AccountCallDetailDetailCaptionOnPage.Value" Value="Account calls" />
+			<Item Name="LocalizableStrings.AccountCategoryCaption.Value" Value="Categorie" />
+			<Item Name="LocalizableStrings.AccountNameCaption.Value" Value="Nume cont" />
+			<Item Name="LocalizableStrings.AccountOwnershipCaption.Value" Value="Entitate de afaceri" />
+			<Item Name="LocalizableStrings.AddressCaption.Value" Value="Adresa" />
+			<Item Name="LocalizableStrings.AddressTypeCaption.Value" Value="Tipul adresei" />
+			<Item Name="LocalizableStrings.AnnualRevenueCaption.Value" Value="Venituri anuale" />
+			<Item Name="LocalizableStrings.BusinesPhoneCaption.Value" Value="Telefon de afaceri" />
+			<Item Name="LocalizableStrings.CallDetailDetailCaptionOnPage.Value" Value="Calls" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Amana pana la" />
+			<Item Name="LocalizableStrings.CityCaption.Value" Value="Oras" />
+			<Item Name="LocalizableStrings.CityStrCaption.Value" Value="Oras" />
+			<Item Name="LocalizableStrings.ContactActivityDetailV2DetailCaptionOnPage.Value" Value="Contact activities" />
+			<Item Name="LocalizableStrings.ContactAddressDetailDetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2DetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactCallDetailV2DetailCaptionOnPage.Value" Value="Contact calls" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Nume contact" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailDetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailV2DetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.CountryCaption.Value" Value="Tara" />
+			<Item Name="LocalizableStrings.CountryStrCaption.Value" Value="Tara" />
+			<Item Name="LocalizableStrings.DealOwnerCaption.Value" Value="Deal owner" />
+			<Item Name="LocalizableStrings.DearCaption.Value" Value="Numele destinatarului" />
+			<Item Name="LocalizableStrings.DecisionRoleCaption.Value" Value="Rol" />
+			<Item Name="LocalizableStrings.DepartmentCaption.Value" Value="Departament" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Descalifica" />
+			<Item Name="LocalizableStrings.EmailCaption.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmailDetailV2DetailCaptionOnPage.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmployeesNumberCaption.Value" Value="Numar de angajati" />
+			<Item Name="LocalizableStrings.FaxCaption.Value" Value="Fax" />
+			<Item Name="LocalizableStrings.FullJobTitleCaption.Value" Value="Numele complet al locului de munca" />
+			<Item Name="LocalizableStrings.GenderCaption.Value" Value="Gen" />
+			<Item Name="LocalizableStrings.IndustryCaption.Value" Value="Industrie" />
+			<Item Name="LocalizableStrings.JobCaption.Value" Value="Denumirea functiei" />
+			<Item Name="LocalizableStrings.LeadPageAccountInfoCaption.Value" Value="Informatii cont" />
+			<Item Name="LocalizableStrings.LeadPageContactInfoCaption.Value" Value="Informatii contact" />
+			<Item Name="LocalizableStrings.LeadPageDistributionInfoCaption.Value" Value="Distribuire conducatoare" />
+			<Item Name="LocalizableStrings.LeadPageGeneralTabContainerCaption.Value" Value="Informatii conducatoare" />
+			<Item Name="LocalizableStrings.LeadPageMQLTabTabCaption.Value" Value="MQL" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationBlockCaption.Value" Value="Verificare solicitata" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationInfo.Value" Value="Poate ca unele din campurile paginii de destinatie au fost completate incorect. Corectati adresa conducatoare responsabila pentru introducerea erorii sau adaugati noi valori intre cele de respectat." />
+			<Item Name="LocalizableStrings.LeadPageSQLTabOpportunityPlanningGroupGroupCaption.Value" Value="Opportunity planning" />
+			<Item Name="LocalizableStrings.LeadPageSQLTabTabCaption.Value" Value="SQL" />
+			<Item Name="LocalizableStrings.LeadPageTransferToSaleInfoCaption.Value" Value="Trecerea la vanzari" />
+			<Item Name="LocalizableStrings.LeadProductDetailV2DetailCaptionOnPage.Value" Value="Products" />
+			<Item Name="LocalizableStrings.LeadSpecificationDetailDetailCaptionOnPage.Value" Value="Features" />
+			<Item Name="LocalizableStrings.LeadsSimilarSearchResultDetailDetailCaptionOnPage.Value" Value="Similar leads" />
+			<Item Name="LocalizableStrings.MobilePhoneCaption.Value" Value="Telefon mobil" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mai mult decat un element in coada conexat procesului. Id Proces: {0}" />
+			<Item Name="LocalizableStrings.NeedInfoTabCaption.Value" Value="Detalii nevoie client" />
+			<Item Name="LocalizableStrings.OpportunityOrOrderCaption.Value" Value="Opportunity/Order" />
+			<Item Name="LocalizableStrings.OrderCaption.Value" Value="Comanda" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Refa coada" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nu a fost posibila repunerea in coada a item-ului. Mesaj de eroare: {0}" />
+			<Item Name="LocalizableStrings.PredictiveScoreNotEvaluatedCaption.Value" Value="not evaluated" />
+			<Item Name="LocalizableStrings.PredictiveScoreTip.Value" Value="Lead conversion probability based on historical patterns and real-time data of the lead. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1863&quot; &gt;Details...&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.QualifiedAccountCaption.Value" Value="Cont" />
+			<Item Name="LocalizableStrings.QualifiedContactCaption.Value" Value="Contact" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Distribuie" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Califica" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Demarati trecerea" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Pagina nu este conectata la elementul in coada pe ecranul agentului. Actiune anulata." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nu a fost posibila re-punerea in coada a item-ului" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Re-punere in coada cu succes" />
+			<Item Name="LocalizableStrings.RegionCaption.Value" Value="Stat/Provincie" />
+			<Item Name="LocalizableStrings.RegionStrCaption.Value" Value="Stat/Provincie" />
+			<Item Name="LocalizableStrings.RequiredFieldsMessage.Value" Value="Rugam introdu campul &quot;Contact&quot; saur &quot;Cont&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInGoogleNotEnoughInfoMessage.Value" Value="To search on Google you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchContactInFacebookNotEnoughInfoMessage.Value" Value="To search on Facebook you should specify Email" />
+			<Item Name="LocalizableStrings.SearchContactInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in at least one of the fields &quot;Contact name&quot;, &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchGoogle.Value" Value="Search in Google" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Caption" Value="SimilarAccountsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Value" Value="Am gasit cateva conturi care pot avea legatura cu acest conducator. Apasati aici pentru a alege unul din lista." />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Caption" Value="SimilarAccountsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Value" Value="Nu am gasit niciun cont care sa aiba legatura cu acest conducator." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Caption" Value="SimilarContactsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Value" Value="Am gasit cateva contacte care pot sa aiba legatura cu acest conducator. Apasati aici pentru a alege unul din lista." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Caption" Value="SimilarContactsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Value" Value="Nu am gasit niciun contact care sa poata avea legatura cu acest conducator." />
+			<Item Name="LocalizableStrings.SourceGroupCaption.Value" Value="Angajament de conducere" />
+			<Item Name="LocalizableStrings.TitleCaption.Value" Value="Titlu" />
+			<Item Name="LocalizableStrings.WebsiteCaption.Value" Value="Web" />
+			<Item Name="LocalizableStrings.ZipCaption.Value" Value="ZIP/cod postal" />
+		</Items>
+	</Group>
+</Resources>

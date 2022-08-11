@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.704490f4-6b1c-42af-ad1e-d09516048d65.Caption" Value="Image 2SimilarAccountsButtonImage" />
+			<Item Name="Images.ac59959c-5ce3-4de6-ac2b-e34847f49a9b.Caption" Value="SearchInternetButtonImage" />
+			<Item Name="Images.dfc52eca-5c10-47a7-8264-89905a1f5b14.Caption" Value="SimilarContactsButtonImage" />
+			<Item Name="LocalizableStrings.AccountActivityDetailV2DetailCaptionOnPage.Value" Value="Account activities" />
+			<Item Name="LocalizableStrings.AccountAddressDetailDetailCaptionOnPage.Value" Value="Account addresses" />
+			<Item Name="LocalizableStrings.AccountCallDetailDetailCaptionOnPage.Value" Value="Account calls" />
+			<Item Name="LocalizableStrings.AccountCategoryCaption.Value" Value="دسته بندی" />
+			<Item Name="LocalizableStrings.AccountNameCaption.Value" Value="نام طرف حساب" />
+			<Item Name="LocalizableStrings.AccountOwnershipCaption.Value" Value="نوع مسئولیت" />
+			<Item Name="LocalizableStrings.AddressCaption.Value" Value="آدرس" />
+			<Item Name="LocalizableStrings.AddressTypeCaption.Value" Value="نوع آدرس" />
+			<Item Name="LocalizableStrings.AnnualRevenueCaption.Value" Value="درآمد سالانه" />
+			<Item Name="LocalizableStrings.BusinesPhoneCaption.Value" Value="تلفن تجاری" />
+			<Item Name="LocalizableStrings.CallDetailDetailCaptionOnPage.Value" Value="Calls" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="به تعویق انداختن تا" />
+			<Item Name="LocalizableStrings.CityCaption.Value" Value="شهر" />
+			<Item Name="LocalizableStrings.CityStrCaption.Value" Value="شهر" />
+			<Item Name="LocalizableStrings.ContactActivityDetailV2DetailCaptionOnPage.Value" Value="Contact activities" />
+			<Item Name="LocalizableStrings.ContactAddressDetailDetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2DetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactCallDetailV2DetailCaptionOnPage.Value" Value="Contact calls" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="نام مخاطب" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailDetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailV2DetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.CountryCaption.Value" Value="کشور" />
+			<Item Name="LocalizableStrings.CountryStrCaption.Value" Value="کشور" />
+			<Item Name="LocalizableStrings.DealOwnerCaption.Value" Value="ایجادکننده معامله" />
+			<Item Name="LocalizableStrings.DearCaption.Value" Value="نام گیرنده" />
+			<Item Name="LocalizableStrings.DecisionRoleCaption.Value" Value="نقش" />
+			<Item Name="LocalizableStrings.DepartmentCaption.Value" Value="دپارتمان" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="کاستن" />
+			<Item Name="LocalizableStrings.EmailCaption.Value" Value="ایمیل" />
+			<Item Name="LocalizableStrings.EmailDetailV2DetailCaptionOnPage.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmployeesNumberCaption.Value" Value="تعداد پرسنل" />
+			<Item Name="LocalizableStrings.FaxCaption.Value" Value="فکس" />
+			<Item Name="LocalizableStrings.FullJobTitleCaption.Value" Value="عنوان کامل شغلی" />
+			<Item Name="LocalizableStrings.GenderCaption.Value" Value="جنسیت" />
+			<Item Name="LocalizableStrings.IndustryCaption.Value" Value="حرفه/صنعت" />
+			<Item Name="LocalizableStrings.JobCaption.Value" Value="عنوان شغلی" />
+			<Item Name="LocalizableStrings.LeadPageAccountInfoCaption.Value" Value="اطلاعات طرف حساب" />
+			<Item Name="LocalizableStrings.LeadPageContactInfoCaption.Value" Value="اطلاعات مخاطب" />
+			<Item Name="LocalizableStrings.LeadPageDistributionInfoCaption.Value" Value="توزیع سرنخ" />
+			<Item Name="LocalizableStrings.LeadPageGeneralTabContainerCaption.Value" Value="اطلاعات سرنخ" />
+			<Item Name="LocalizableStrings.LeadPageMQLTabTabCaption.Value" Value="MQL" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationBlockCaption.Value" Value="نیازمند تائیدیه" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationInfo.Value" Value="Perhaps, some of the landing page fields were filled in incorrectly.Correct the lead address entry error or add new values to the lookup." />
+			<Item Name="LocalizableStrings.LeadPageSQLTabOpportunityPlanningGroupGroupCaption.Value" Value="Opportunity planning" />
+			<Item Name="LocalizableStrings.LeadPageSQLTabTabCaption.Value" Value="SQL" />
+			<Item Name="LocalizableStrings.LeadPageTransferToSaleInfoCaption.Value" Value="دستیابی به فروش" />
+			<Item Name="LocalizableStrings.LeadProductDetailV2DetailCaptionOnPage.Value" Value="Products" />
+			<Item Name="LocalizableStrings.LeadSpecificationDetailDetailCaptionOnPage.Value" Value="Features" />
+			<Item Name="LocalizableStrings.LeadsSimilarSearchResultDetailDetailCaptionOnPage.Value" Value="Similar leads" />
+			<Item Name="LocalizableStrings.MobilePhoneCaption.Value" Value="موبایل" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="بیش از یک عنصر صف به فرایند متصل است. شناسه فرایند: {0}" />
+			<Item Name="LocalizableStrings.NeedInfoTabCaption.Value" Value="جزییات نیاز مشتری" />
+			<Item Name="LocalizableStrings.OpportunityOrOrderCaption.Value" Value="فرصت/سفارش" />
+			<Item Name="LocalizableStrings.OrderCaption.Value" Value="سفارش" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="تشکیل صف دوباره" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="امکان صف بندی مجدد آیتم وجود ندارد. پیام خطا: {0}" />
+			<Item Name="LocalizableStrings.PredictiveScoreNotEvaluatedCaption.Value" Value="not evaluated" />
+			<Item Name="LocalizableStrings.PredictiveScoreTip.Value" Value="Lead conversion probability based on historical patterns and real-time data of the lead. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1863&quot; &gt;Details...&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.QualifiedAccountCaption.Value" Value="طرف حساب" />
+			<Item Name="LocalizableStrings.QualifiedContactCaption.Value" Value="مخاطب" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="توزیع کردن" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="واجد شرایط شدن" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="اقدام به تحویل" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="صفحه به عنصر صف عامل دسکتاپ متصل نیست. اقدام لغو شد." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="امکان صف بندی مجدد آیتم وجود ندارد" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="با موفقیت دوباره در صف قرار گرفت" />
+			<Item Name="LocalizableStrings.RegionCaption.Value" Value="استان/شهرستان" />
+			<Item Name="LocalizableStrings.RegionStrCaption.Value" Value="استان/شهرستان" />
+			<Item Name="LocalizableStrings.RequiredFieldsMessage.Value" Value="Please, fill in either the &quot;Contact&quot; or &quot;Account&quot; field" />
+			<Item Name="LocalizableStrings.SearchAccountInGoogleNotEnoughInfoMessage.Value" Value="To search on Google you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchContactInFacebookNotEnoughInfoMessage.Value" Value="To search on Facebook you should specify Email" />
+			<Item Name="LocalizableStrings.SearchContactInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in at least one of the fields &quot;Contact name&quot;, &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchGoogle.Value" Value="Search in Google" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Caption" Value="SimilarAccountsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Value" Value="چندین مشترک که می توانند با این سرنخ مرتبط باشند، یافت شد. جهت انتخاب یکی از روی لیست، اینجا کلیک کنید." />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Caption" Value="SimilarAccountsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Value" Value="مشترکی که می تواند با این سرنخ مرتبط باشد یافت نشد." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Caption" Value="SimilarContactsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Value" Value="چندین مخاطب که می توانند با این سرنخ مرتبط باشند، یافت شد. جهت انتخاب یکی از روی لیست، اینجا کلیک کنید." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Caption" Value="SimilarContactsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Value" Value="مخاطبی که می تواند با این سرنخ مرتبط باشد یافت نشد." />
+			<Item Name="LocalizableStrings.SourceGroupCaption.Value" Value="نامزدی سرنخ" />
+			<Item Name="LocalizableStrings.TitleCaption.Value" Value="عنوان" />
+			<Item Name="LocalizableStrings.WebsiteCaption.Value" Value="وب" />
+			<Item Name="LocalizableStrings.ZipCaption.Value" Value="کد پستی" />
+		</Items>
+	</Group>
+</Resources>

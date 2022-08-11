@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.704490f4-6b1c-42af-ad1e-d09516048d65.Caption" Value="Image 2SimilarAccountsButtonImage" />
+			<Item Name="Images.ac59959c-5ce3-4de6-ac2b-e34847f49a9b.Caption" Value="SearchInternetButtonImage" />
+			<Item Name="Images.dfc52eca-5c10-47a7-8264-89905a1f5b14.Caption" Value="SimilarContactsButtonImage" />
+			<Item Name="LocalizableStrings.AccountActivityDetailV2DetailCaptionOnPage.Value" Value="Account activities" />
+			<Item Name="LocalizableStrings.AccountAddressDetailDetailCaptionOnPage.Value" Value="Account addresses" />
+			<Item Name="LocalizableStrings.AccountCallDetailDetailCaptionOnPage.Value" Value="Account calls" />
+			<Item Name="LocalizableStrings.AccountCategoryCaption.Value" Value="Kategori" />
+			<Item Name="LocalizableStrings.AccountNameCaption.Value" Value="Kontonamn" />
+			<Item Name="LocalizableStrings.AccountOwnershipCaption.Value" Value="Affärsenhet" />
+			<Item Name="LocalizableStrings.AddressCaption.Value" Value="Adress" />
+			<Item Name="LocalizableStrings.AddressTypeCaption.Value" Value="Adresstyp" />
+			<Item Name="LocalizableStrings.AnnualRevenueCaption.Value" Value="Årsomsättning" />
+			<Item Name="LocalizableStrings.BusinesPhoneCaption.Value" Value="Företagstelefon" />
+			<Item Name="LocalizableStrings.CallDetailDetailCaptionOnPage.Value" Value="Calls" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Senarelägg till" />
+			<Item Name="LocalizableStrings.CityCaption.Value" Value="Ort" />
+			<Item Name="LocalizableStrings.CityStrCaption.Value" Value="Ort" />
+			<Item Name="LocalizableStrings.ContactActivityDetailV2DetailCaptionOnPage.Value" Value="Contact activities" />
+			<Item Name="LocalizableStrings.ContactAddressDetailDetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactAddressDetailV2DetailCaptionOnPage.Value" Value="Contact addresses" />
+			<Item Name="LocalizableStrings.ContactCallDetailV2DetailCaptionOnPage.Value" Value="Contact calls" />
+			<Item Name="LocalizableStrings.ContactCaption.Value" Value="Kontaktnamn" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailDetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.ContactCommunicationDetailV2DetailCaptionOnPage.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.CountryCaption.Value" Value="Land" />
+			<Item Name="LocalizableStrings.CountryStrCaption.Value" Value="Land" />
+			<Item Name="LocalizableStrings.DealOwnerCaption.Value" Value="Affärsägare" />
+			<Item Name="LocalizableStrings.DearCaption.Value" Value="Mottagarens namn" />
+			<Item Name="LocalizableStrings.DecisionRoleCaption.Value" Value="Roll" />
+			<Item Name="LocalizableStrings.DepartmentCaption.Value" Value="Avdelning" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Caption" Value="DisqualificationButtonCaption" />
+			<Item Name="LocalizableStrings.DisqualificationButtonCaption.Value" Value="Diskvalificera" />
+			<Item Name="LocalizableStrings.EmailCaption.Value" Value="E-post" />
+			<Item Name="LocalizableStrings.EmailDetailV2DetailCaptionOnPage.Value" Value="Email" />
+			<Item Name="LocalizableStrings.EmployeesNumberCaption.Value" Value="Antal anställda" />
+			<Item Name="LocalizableStrings.FaxCaption.Value" Value="Fax" />
+			<Item Name="LocalizableStrings.FullJobTitleCaption.Value" Value="Fullständig jobbtitel" />
+			<Item Name="LocalizableStrings.GenderCaption.Value" Value="Kön" />
+			<Item Name="LocalizableStrings.IndustryCaption.Value" Value="Bransch" />
+			<Item Name="LocalizableStrings.JobCaption.Value" Value="Jobbtitel" />
+			<Item Name="LocalizableStrings.LeadPageAccountInfoCaption.Value" Value="Kontoinfo" />
+			<Item Name="LocalizableStrings.LeadPageContactInfoCaption.Value" Value="Kontaktinfo" />
+			<Item Name="LocalizableStrings.LeadPageDistributionInfoCaption.Value" Value="Lead-distribution" />
+			<Item Name="LocalizableStrings.LeadPageGeneralTabContainerCaption.Value" Value="Lead-info" />
+			<Item Name="LocalizableStrings.LeadPageMQLTabTabCaption.Value" Value="MQL" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationBlockCaption.Value" Value="Verifiering krävs" />
+			<Item Name="LocalizableStrings.LeadPageNeedValidationInfo.Value" Value="Kanske fylldes vissa av landningssidans fält i felaktigt. Korrigera lead-adresspostfelet eller lägg till nya värden i uppslaget." />
+			<Item Name="LocalizableStrings.LeadPageSQLTabOpportunityPlanningGroupGroupCaption.Value" Value="Opportunity planning" />
+			<Item Name="LocalizableStrings.LeadPageSQLTabTabCaption.Value" Value="SQL" />
+			<Item Name="LocalizableStrings.LeadPageTransferToSaleInfoCaption.Value" Value="Överlämning till försäljning" />
+			<Item Name="LocalizableStrings.LeadProductDetailV2DetailCaptionOnPage.Value" Value="Products" />
+			<Item Name="LocalizableStrings.LeadSpecificationDetailDetailCaptionOnPage.Value" Value="Features" />
+			<Item Name="LocalizableStrings.LeadsSimilarSearchResultDetailDetailCaptionOnPage.Value" Value="Similar leads" />
+			<Item Name="LocalizableStrings.MobilePhoneCaption.Value" Value="Mobiltelefon" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Mer än ett köelement kopplat till processen. Process-ID: {0}" />
+			<Item Name="LocalizableStrings.NeedInfoTabCaption.Value" Value="Kundbehovsdetaljer" />
+			<Item Name="LocalizableStrings.OpportunityOrOrderCaption.Value" Value="Opportunity/Beställning" />
+			<Item Name="LocalizableStrings.OrderCaption.Value" Value="Order" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Ställ i kö igen" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Kan inte ställa artikel i kö igen. Felmeddelande: {0}" />
+			<Item Name="LocalizableStrings.PredictiveScoreNotEvaluatedCaption.Value" Value="not evaluated" />
+			<Item Name="LocalizableStrings.PredictiveScoreTip.Value" Value="Lead conversion probability based on historical patterns and real-time data of the lead. &lt;a href=&quot;#&quot; data-context-help-id=&quot;1863&quot; &gt;Details...&lt;/a&gt;" />
+			<Item Name="LocalizableStrings.QualifiedAccountCaption.Value" Value="Konto" />
+			<Item Name="LocalizableStrings.QualifiedContactCaption.Value" Value="Kontakt" />
+			<Item Name="LocalizableStrings.QualifyStatusDistributionCaption.Value" Value="Distribuera" />
+			<Item Name="LocalizableStrings.QualifyStatusQualificationCaption.Value" Value="Kvalificera" />
+			<Item Name="LocalizableStrings.QualifyStatusTranslationForSaleCaption.Value" Value="Gå vidare till överlämning" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Sidan är inte kopplad till agentens skrivbordsköelement. Åtgärd avbruten." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Kan inte ställa artikel i kö igen" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Ställdes i kö igen" />
+			<Item Name="LocalizableStrings.RegionCaption.Value" Value="Stat/provins" />
+			<Item Name="LocalizableStrings.RegionStrCaption.Value" Value="Stat/provins" />
+			<Item Name="LocalizableStrings.RequiredFieldsMessage.Value" Value="Fyll i antingen fältet &quot;Kontakt&quot; eller &quot;Konto&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInGoogleNotEnoughInfoMessage.Value" Value="To search on Google you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchAccountInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in the field &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchContactInFacebookNotEnoughInfoMessage.Value" Value="To search on Facebook you should specify Email" />
+			<Item Name="LocalizableStrings.SearchContactInLinkedInNotEnoughInfoMessage.Value" Value="To search on LinkedIn you should fill in at least one of the fields &quot;Contact name&quot;, &quot;Account name&quot;" />
+			<Item Name="LocalizableStrings.SearchGoogle.Value" Value="Search in Google" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Caption" Value="SimilarAccountsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonFoundHintText.Value" Value="Vi har hittat flera konton som kan länkas till denna lead. Klicka här för att välja ett från listan." />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Caption" Value="SimilarAccountsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarAccountsButtonNotFoundHintText.Value" Value="Vi hittade inga konton som kan länkas till denna lead." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Caption" Value="SimilarContactsButtonFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonFoundHintText.Value" Value="Vi har hittat flera kontakter som kan länkas till denna lead. Klicka här för att välja ett från listan." />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Caption" Value="SimilarContactsButtonNotFoundHintText" />
+			<Item Name="LocalizableStrings.SimilarContactsButtonNotFoundHintText.Value" Value="Vi hittade inga kontakter som kan länkas till denna lead." />
+			<Item Name="LocalizableStrings.SourceGroupCaption.Value" Value="Lead-engagemang" />
+			<Item Name="LocalizableStrings.TitleCaption.Value" Value="Titel" />
+			<Item Name="LocalizableStrings.WebsiteCaption.Value" Value="Webb" />
+			<Item Name="LocalizableStrings.ZipCaption.Value" Value="Postnummer" />
+		</Items>
+	</Group>
+</Resources>
