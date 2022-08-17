@@ -44,6 +44,7 @@ namespace Terrasoft.Configuration
 
         public EntityCollection GetByName(string leadName)
         {
+            
             var esq = new EntitySchemaQuery(_userConnection.EntitySchemaManager.GetInstanceByName("Lead"));
             esq.AddAllSchemaColumns();
             esq.Filters.Add(esq.CreateFilterWithParameters(FilterComparisonType.Contain, "LeadName", leadName));
