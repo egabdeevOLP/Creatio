@@ -15,6 +15,7 @@ using Terrasoft.Common;
 
 namespace Terrasoft.Configuration
 {
+    // ---------------------------------НАЙДИИИИИ МЕННЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ----------------------------
     public class OmniTestService
     {
         private readonly UserConnection _userConnection;
